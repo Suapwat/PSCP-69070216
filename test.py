@@ -1,7 +1,5 @@
-"""OJ 2996"""
+"""test"""
 def main():
-    """invert name"""
-    name = input()
-    print(f"{name[::-1].lower()}")
+    """docstring"""
 
 main()
